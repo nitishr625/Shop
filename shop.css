@@ -1,7 +1,7 @@
 
 /* Products CSS */ 
 .body{
-    margin:0px;
+    overflow-y: hidden;
 }
 
 .products{
